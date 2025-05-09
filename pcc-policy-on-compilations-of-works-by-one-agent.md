@@ -132,3 +132,16 @@ word $s (Welty)
 
 *A compilation of three short stories by Eudora Welty. RDA 6.2.2.4 is applied and the manifestation title is used instead of a conventional collective title Short stories. Selections. But the title* Eudora Welty reading three of her short stories *representing this aggregate work is recorded as a variant access point in the existing conventional collective title authority record LCCN no 98029448:*  
 
+| Tag     |        |   | Field                                                                               |
+| ---     | ---    |---| ---                                                                                 |
+| 010     |        |   | no98029448                                                                          |  
+| 040     |        |   | OCoLC $b eng **$e rda** $c OCoLC $d OrU $d DLC $d MdRoLAC                           |  
+| 100     | 1      |   | Welty, Eudora, $d 1909-2001. $t Short stories. $k Selections                        |  
+| **400** | **1**  |   | **Welty, Eudora, $d 1909-2001. $t Eudora Welty reading three of her short stories** |  
+| 400     | 1      |   | Welty, Eudora, $d 1909-2001. $t Thirteen stories                                    |  
+| 400     | 1      |   | Welty, Eudora, $d 1909-2001. $t Eudora Welty reading from her works                 |  
+| 400     | 1      |   | Welty, Eudora, $d 1909-2001. $t Collected stories of Eudora Welty                   |  
+| 667     |        |   | Machine-derived authority record.                                                   |  
+| **670** |        |   | **LCCN 93-843031: Welty, E. Eudora Welty reading three of her short stories, 1958** |  
+| 670     |        |   | Thirteen stories, 1979.                                                             |  
+| 670     |        |   | Welty, Eudora. Collected stories of Eudora Welty, 2019.                             | 
