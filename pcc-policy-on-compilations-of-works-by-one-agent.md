@@ -51,4 +51,84 @@ Under the new policy, conflict will be determined according to the General state
 
 Authority records optionally may be created in the case of conflict as determined by LC-PCC PS for 6.27.1.9. However, do not create an authority record only to provide variant access from a conventional collective title construction. One of the goals of the new policy is to reduce the number of new authority records representing works.  
 
-The PCC Standing Committee on Standards (SCS) has created a separate [FAQ on Authorized Access Points for Collections of the Works of Individual Agents and Works of Unknown Responsibility that Pruport to be by an Individual Agent](https://www.loc.gov/aba/pcc/naco/documents/FAQ-AAP-Collections.pdf) (Oct. 2020, rev. May 2021) for working with "undifferentiated" conventional collective title work and expression authority records. See page 17 (***NACO Authority File Maintenance***) of that document.
+The PCC Standing Committee on Standards (SCS) has created a separate [FAQ on Authorized Access Points for Collections of the Works of Individual Agents and Works of Unknown Responsibility that Pruport to be by an Individual Agent](https://www.loc.gov/aba/pcc/naco/documents/FAQ-AAP-Collections.pdf) (Oct. 2020, rev. May 2021) for working with "undifferentiated" conventional collective title work and expression authority records. See page 17 (***NACO Authority File Maintenance***) of that document.  
+
+### Classification and Collocation  
+
+Resources in scope for the new policy that are classed in Class P (Language and Literature) will be classed as separate works. This also includes translations, which will be classed following the Translation Table (Classification and Shelflisting Manual (CSM), instruction sheet G150, Translations/ Texts in Parallel Languages), rather than applying a form Cutter (see the translation example below). Optionally, collocation can be achieve through the use of an LGCFT term in the 655 field, or an LCGFT term in the 380 field:  
+> 655 #7 $a Poetry. $2lcgft
+*or*
+> 380 ## $a Poetry $2 lcgft
+
+
+## 1. General Examples
+
+### Example 1-1  
+
+> 050 00 $a PS3552.R4174 $b W67 2020
+> 100 1# $a Brewer, Gaylord, $d 1965- $e author.
+> 145 10 $a Worship the pig : $b poems / $c Gaylord Brewer.
+> 655 #7 $a Poetry. $2 lcgft
+> 700 12 $i Container of (work): $a Brewer, Gaylord, $d 1965- $t Dark hello.
+
+*A compilation of selected poems by Gaylord Brewer. RDA 6.2.2.4 is applied and the manifestation title is used instead of a conventional collective title Poems. Selections. The resource is classed as a separate work, and the LCGFT term Poetry is assigned for collocation purposes. An analytical authorized access point is given for the first work in the compilation according to LC-PCC PS for 25.1 (For compilations of works, give an analytical authorized access point for the predominant or first work in the compilation when it represents a substantial part of the resource. Optionally, give analytical authorized access points for works other than the predominant or first work, if considered important for access).*
+
+### Example 1-2  
+
+> 050 00 $a PS3606.R445465 $b P37 2020
+> 100 1# $a Freeman, John, $d 1974- $e author.
+> 245 14 $a The park / $c John Freeman.
+> 655 #7 $a Poetry. $2 lgcft
+> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Sacrifice.
+> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Modern gods.
+> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Signs.
+> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Pool.
+> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Easement.
+
+*A compilation of selected poems by John Freeman. RDA 6.2.2.4 is applied and the manifestation title is used instead of a conventional collective title Poems. Selections. The resource is classed as a separate work, and the LCGFT term Poetry is assigned for collocation purposes. Analytical authorized access points are given for the first poem in each of the sets in the compilation according to LC-PCC PS for 25.1 (For compilations of works, give an analytical authorized access point for the predominant or first work in the compilation when it represents a substantial part of the resource. Optionally, give analytical authorized access points for works other than the predominant or first work, if considered important for access).* 
+
+### Example 1-3
+
+> 050 00 $a PS3608.E776 $b F36 2019  
+> 100 1# $a Herrmann, Duane L., $e author.  
+> 245 10 $a Family plowing and other prairie poems : $b new and used / $c Duane L. Herrmann.  
+> 655 #7 $a Poetry. $2 lcgft  
+> 700 12 $i Container of (work): $a Herrmann, Duane L. $t Family plowing.  
+
+*A compilation of selected poems by Duane L. Herrmann. RDA 6.2.2.4 is applied and the manifestation title is used instead of a conventional collective title Poems. Selections. The individual poem Family plowing is included in the compilation. An analytical authorized access point is given for the poem according to LC PCC PS for 25.1 (For compilations of works, give an analytical authorized access point for the predominant or first work in the compilation when it represents a substantial part of the resource. Optionally, give analytical authorized access points for works other than the predominant or first work, if considered important for access).*  
+
+### Examples 1-4  
+
+> 050 00 $a PS3501.K5 $b H56 1937  
+> 100 1# $a Akins, Zoë, $d 1886-1958, $e author.  
+> 240 10 $a Hills grow smaller (Poem)  
+> 245 14 $a The hills grow smaller / $c by Zoë Akins.  
+> 655 #7 $a Poetry. $2 lcgft  
+
+*This is not a compilation. It is a single poem by Zoë Akins. A compilation titled The hills grow smaller does exist and conflicts with the title of the individual poem. A qualifier is added to the title in the 240 field to break the conflict. The resource is classed as a separate work, and the LCGFT term Poetry is assigned for collocation purposes.*  
+
+### Examples 1-5  
+
+> 050 00 $a PS3604.O53 $b S73 2009  
+> 100 1# $a Donaghy, Daniel, $d 1970- $e author.  
+> 240 10 $a Start with the trouble (Compila�on)  
+> 245 10 $a Start with the trouble : $b poems / $c by Daniel Donaghy.  
+> 655 #7 $a Poetry. $2 lcgft
+
+*A compilation of selected poems by Daniel Donaghy. RDA 6.2.2.4 is applied and the manifestation title is used instead of a conventional collective title Poems. Selections. The individual poem Start with the trouble is included in the compilation, and the cataloger has identified this as a conflict according to LCPCC PS 6.27.1.9. A uniform title is assigned in the 240 field to break the conflict. The resource is classed as a separate work, and the LCGFT term Poetry is assigned for collocation purposes. The cataloger did not add analytical authorized access points in this case.*  
+
+### Example 1-6  
+
+> 050 00 $a LWO 2725 (preservation master)  
+> 100 1# $a Welty, Eudora, $d 1909-2001, $e author, $e storyteller.  
+> 245 10 $a Eudora Welty reading three of her short stories.  
+> 655 #7 $a Short stories. $2 lcgft  
+> 700 12 $i Container of (expression): $a Welty, Eudora, $d 1909-2001. $t Lily Daw and the three ladies. 
+$h Spoken word $s (Welty)  
+> 700 12 $i Container of (expression): $a Welty, Eudora, $d 1909-2001. $t Worn path. $h Spoken word $s 
+(Welty)  
+> 700 12 $i Container of (expression): $a Welty, Eudora, $d 1909-2001. $t Ladies in spring. $h Spoken 
+word $s (Welty)
+
+*A compilation of three short stories by Eudora Welty. RDA 6.2.2.4 is applied and the manifestation title is used instead of a conventional collective title Short stories. Selections. But the title* Eudora Welty reading three of her short stories *representing this aggregate work is recorded as a variant access point in the existing conventional collective title authority record LCCN no 98029448:*  
+
