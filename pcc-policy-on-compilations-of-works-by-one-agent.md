@@ -155,39 +155,39 @@ considered important for access).*
 
 ### Example 1-7  
 
-> 050 00 $a PS3501.L378 $b J683 2022
-> 100 1# $a Aldrich, Bess Streeter, $d 1881-1954, $e author.
-> 240 10 $a Journey into Christmas (Compilation)
-> 245 10 $a Journey into Christmas ; $b and Star across the tracks / $c Bess Streeter
-> Aldrich. 655 #7 $a Christmas fiction. $2 lcgft
-> 655 #7 $a Short stories. $2 lcgft
-> 700 12 $i Container of (work): $a Aldrich, Bess Streeter, $d 1881-1954. $t Journey into Christmas.
-> 700 12 $i Container of (work): $a Aldrich, Bess Streeter, $d 1881-1954. $t Star across the tracks.
+> 050 00 $a PS3501.L378 $b J683 2022  
+> 100 1# $a Aldrich, Bess Streeter, $d 1881-1954, $e author.  
+> 240 10 $a Journey into Christmas (Compilation)  
+> 245 10 $a Journey into Christmas ; $b and Star across the tracks / $c Bess Streeter  
+> Aldrich. 655 #7 $a Christmas fiction. $2 lcgft  
+> 655 #7 $a Short stories. $2 lcgft  
+> 700 12 $i Container of (work): $a Aldrich, Bess Streeter, $d 1881-1954. $t Journey into Christmas.  
+> 700 12 $i Container of (work): $a Aldrich, Bess Streeter, $d 1881-1954. $t Star across the tracks.  
 
 *A compilation of two short stories by Bess Streeter Aldrich. RDA 6.2.2.4 is applied and the manifestation title is used instead of a conventional collective title Short stories. Selections. The individual short story Journey into Christmas is included in the compilation, and the cataloger has identified this as a conflict according to LC-PCC PS 6.27.1.9. A uniform title is assigned in the 240 field to break the conflict. The resource is classed as a separate work, and the LCGFT terms Christmas fiction and Short stories are assigned for collocation purposes. The cataloger added two analytical authorized access points for the two short stories in the compilation.*
 
 ### Example 1-8  
 
-> 050 00 $a PR4728.G5 $b S56 2022
-> 100 1# $a Gregory, $c Lady, $d 1852-1932, $e author.
-> 245 10 $a Shorter writings / $c Lady Gregory ; edited and introduced by James Pethica. 505 1# $a Volume 1. 1882-1900
-> 655 #7 $a Essays. $2 lcgft
-> 655 #7 $a Personal correspondence. $2 lcgft
-> 655 #7 $a Poetry. $2 lcgft
-> 700 1# $a Pethica, James, $e editor.
+> 050 00 $a PR4728.G5 $b S56 2022  
+> 100 1# $a Gregory, $c Lady, $d 1852-1932, $e author.  
+> 245 10 $a Shorter writings / $c Lady Gregory ; edited and introduced by James Pethica. 505 1# $a Volume 1. 1882-1900  
+> 655 #7 $a Essays. $2 lcgft  
+> 655 #7 $a Personal correspondence. $2 lcgft  
+> 655 #7 $a Poetry. $2 lcgft  
+> 700 1# $a Pethica, James, $e editor.  
 
 *A  multi-part compilation of more than one form by Lady Gregory. RDA 6.2.2.4 is applied and the manifestation title is used instead of a conventional collective title Works. Selections. The forms included in the compilation are identified in the LCGFT terms assigned in the 655 fields. The resource is classed as a separate work.*
 
 ### Example 1-9  
 
-> 050 00 $a PQ4266.A3 $b G56 1995
-> 100 1# $a Boccaccio, Giovanni, $d 1313-1375, $e author.
-> 240 10 $a Giovanni Boccaccio (Borsellino)
-> 245 10 $a Giovanni Boccaccio / $c scelta e introduzione di Nino Borsellino.
-> 264 #1 $a Roma : $b Is�tuto poligrafico e Zecca dello Stato, $c [1995]
-> 264 #4 $c c1995
-> 505 0# $a Ninfale fiesolano -- Decameron -- Corbaccio -- Rime -- Iohannes e Janneta : due volte una maschera.
-> 655 #7 $a Short stories. $2 lcgft
+> 050 00 $a PQ4266.A3 $b G56 1995  
+> 100 1# $a Boccaccio, Giovanni, $d 1313-1375, $e author.  
+> 240 10 $a Giovanni Boccaccio (Borsellino)  
+> 245 10 $a Giovanni Boccaccio / $c scelta e introduzione di Nino Borsellino.  
+> 264 #1 $a Roma : $b Is�tuto poligrafico e Zecca dello Stato, $c [1995]  
+> 264 #4 $c c1995  
+> 505 0# $a Ninfale fiesolano -- Decameron -- Corbaccio -- Rime -- Iohannes e Janneta : due volte una maschera.  
+> 655 #7 $a Short stories. $2 lcgft  
 
 *A new partial compilation of works by Boccaccio that was published in 1995. The individual works in the compilation were created before 1501, but the compilation did not appear for the first time until 1995. The compilation is classed as a separate work and because there is a conflict with another resource with the same creator and title proper, the preferred title is qualified with the surname of the compiler to break the conflict (RDA 6.6, Other Distinguishing Characteristic of Work)*  
 
@@ -197,11 +197,11 @@ Translations can fall into one of two categories under the new policy. If a tran
 
 ### Example 2-1  
 
-> 050 00 $a PS3505.A87 $b L3817 1997
-> 100 1# $a Cather, Willa, $d 1873-1947, $e author.
-> 240 10 $a Later novels. $l Russian
-> 245 14 $a Pozdnie romany / $c Uilla Kėtėr.
-> 655 #7 $a Novels. $2 lcgft
+> 050 00 $a PS3505.A87 $b L3817 1997  
+> 100 1# $a Cather, Willa, $d 1873-1947, $e author.  
+> 240 10 $a Later novels. $l Russian  
+> 245 14 $a Pozdnie romany / $c Uilla Kėtėr.  
+> 655 #7 $a Novels. $2 lcgft  
 
 *A Russian translation of novels by Willa Cather, published originally in English under the title Later novels. The translation is treated as a separate work and the Translation Table is used (.x17 = Russian 
 Translation), not the Form Cutter .A5-.A59 (TABLE P-PZ40).*  
@@ -210,10 +210,10 @@ If a translation of a partial compilation has <ins>not</ins> been published as a
 
 ### Example 2-2
 
-> 050 04 $a PL845.B4 $b T46 1993
-> 100 1# $a Abe, Kōbō, $d 1924-1993, $e author.
-> 245 10 $a Three plays / $c by Kōbō Abe ; translated, and with an introduction by Donald Keene.
-> 655 #7 $a Drama. $2 lcgft
+> 050 04 $a PL845.B4 $b T46 1993  
+> 100 1# $a Abe, Kōbō, $d 1924-1993, $e author.  
+> 245 10 $a Three plays / $c by Kōbō Abe ; translated, and with an introduction by Donald Keene.  
+> 655 #7 $a Drama. $2 lcgft  
 
 *This compilation of three translated plays was never published as a compilation in the original language. The preferred title for this resource will be the English title, since there is no Japanese title for the compilation.*  
 
@@ -221,12 +221,12 @@ In case of doubt, use the title proper of the translation as the preferred title
 
 ### Example 2-3  
 
-> 050 04 $a PL2919.Y448 $b S8613 2022
-> 100 1# $a Wang, Yin, $d 1962- $e author.
-> 245 12 $a A summer day in the company of ghosts / $c by Wang Yin ; translated by Andrea Lingenfelter.
-> 655 #7 $a Poetry. $2 lcgft
-> 700 12 $i Container of (work): $a Wang, Yin, $d 1962- $t Summer day in the company of ghosts.
-> 700 12 $i Container of (expression): $a Wang, Yin, $d 1962- $t Summer day in the company of ghosts. $l Chinese.  
+> 050 04 $a PL2919.Y448 $b S8613 2022  
+> 100 1# $a Wang, Yin, $d 1962- $e author.  
+> 245 12 $a A summer day in the company of ghosts / $c by Wang Yin ; translated by Andrea Lingenfelter.  
+> 655 #7 $a Poetry. $2 lcgft  
+> 700 12 $i Container of (work): $a Wang, Yin, $d 1962- $t Summer day in the company of ghosts.  
+> 700 12 $i Container of (expression): $a Wang, Yin, $d 1962- $t Summer day in the company of ghosts. $l Chinese.    
 
 *This compilation contains the original expression of poems in Chinese, and the same poems translated into English. The compilation was never published as a compilation in the original language. LC-PCC PS 6.27.3 applies, so analytical access points are required for both the Chinese poems and the English translations.*  
 
@@ -236,28 +236,28 @@ In case of doubt, use the title proper of the translation as the preferred title
 
 ### Example 3-1  
 
->050 00 $a ND553.P5 $b A4 2016
->100 1# $a Picasso, Pablo, $d 1881-1973, $e artist.
->245 10 $a Picasso au Musée Soulages.  
+>050 00 $a ND553.P5 $b A4 2016  
+>100 1# $a Picasso, Pablo, $d 1881-1973, $e artist.  
+>245 10 $a Picasso au Musée Soulages.    
 
 *An exhibition catalog of selected paintings by Picasso. The conventional collective title Paintings. Selections would have been assigned prior to the new PCC policy. The Library of Congress Classification 
 number ND553.P5 A4 is still used, since the form Cutter A4 includes exhibition catalogs.*
 
 ### Example 3-2  
 
->050 00 $a N6853.P5 $b A4 2017g
->100 1# $a Picasso, Pablo, $d 1881-1973, $e artist.
->240 10 $a Picasso (Capucins (Landerneau, France))
->245 10 $a Picasso / $c sous la direction de Michel-Édouard Leclerc ; commissaire, Jean-Louis Andral.  
+>050 00 $a N6853.P5 $b A4 2017g  
+>100 1# $a Picasso, Pablo, $d 1881-1973, $e artist.  
+>240 10 $a Picasso (Capucins (Landerneau, France))  
+>245 10 $a Picasso / $c sous la direction de Michel-Édouard Leclerc ; commissaire, Jean-Louis Andral.    
 
 *A catalog of an exhibition of Picasso’s works held at the Capucins, Landerneau, France, June 25-November 1, 2017. The conventional collective title Works. Selections would have been assigned prior to the new PCC
 policy. The access point of this resource would conflict with that of a different resource, so the conflict needs to be broken. The host institution was chosen to break the conflict, although date, publisher, etc., could also have been used. The classification number N6853.P5 A4 is still used, since the form Cutter A4 includes exhibition catalogs.*  
 
 ### Example 3-3  
 
-> 050 00 $a ND237.L625 $b A4 2018
-> 100 1# $a LeWit, Sol, $d 1928-2007, $e artist.
-> 245 10 $a By hand : $b Sol LeWit : the first exhibition dedicated to Sol LeWit's gouache paintings.  
+> 050 00 $a ND237.L625 $b A4 2018  
+> 100 1# $a LeWit, Sol, $d 1928-2007, $e artist.  
+> 245 10 $a By hand : $b Sol LeWit : the first exhibition dedicated to Sol LeWit's gouache paintings.    
 
 *An exhibition catalog of selected paintings by Sol LeWit. The conventional collective title Gouache paintings. Selections or Paintings. Selections might have been assigned prior to the new PCC policy. The Library of Congress Classification number ND237.L625 A4 is still used, since the form Cuter A4 includes exhibition catalogs.*
 
