@@ -75,15 +75,15 @@ Resources in scope for the new policy that are classed in Class P (Language and 
 
 ### Example 1-2  
 
-> 050 00 $a PS3606.R445465 $b P37 2020
-> 100 1# $a Freeman, John, $d 1974- $e author.
-> 245 14 $a The park / $c John Freeman.
-> 655 #7 $a Poetry. $2 lgcft
-> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Sacrifice.
-> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Modern gods.
-> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Signs.
-> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Pool.
-> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Easement.
+> 050 00 $a PS3606.R445465 $b P37 2020  
+> 100 1# $a Freeman, John, $d 1974- $e author.  
+> 245 14 $a The park / $c John Freeman.  
+> 655 #7 $a Poetry. $2 lgcft  
+> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Sacrifice.  
+> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Modern gods.  
+> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Signs.  
+> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Pool.  
+> 700 12 $i Container of (work): $a Freeman, John, $d 1974- $t Easement.  
 
 *A compilation of selected poems by John Freeman. RDA 6.2.2.4 is applied and the manifestation title is used instead of a conventional collective title Poems. Selections. The resource is classed as a separate work, and the LCGFT term Poetry is assigned for collocation purposes. Analytical authorized access points are given for the first poem in each of the sets in the compilation according to LC-PCC PS for 25.1 (For compilations of works, give an analytical authorized access point for the predominant or first work in the compilation when it represents a substantial part of the resource. Optionally, give analytical authorized access points for works other than the predominant or first work, if considered important for access).* 
 
@@ -158,8 +158,7 @@ considered important for access).*
 > 050 00 $a PS3501.L378 $b J683 2022  
 > 100 1# $a Aldrich, Bess Streeter, $d 1881-1954, $e author.  
 > 240 10 $a Journey into Christmas (Compilation)  
-> 245 10 $a Journey into Christmas ; $b and Star across the tracks / $c Bess Streeter  
-> Aldrich. 655 #7 $a Christmas fiction. $2 lcgft  
+> 245 10 $a Journey into Christmas ; $b and Star across the tracks / $c Bess Streeter Aldrich. 655 #7 $a Christmas fiction. $2 lcgft  
 > 655 #7 $a Short stories. $2 lcgft  
 > 700 12 $i Container of (work): $a Aldrich, Bess Streeter, $d 1881-1954. $t Journey into Christmas.  
 > 700 12 $i Container of (work): $a Aldrich, Bess Streeter, $d 1881-1954. $t Star across the tracks.  
