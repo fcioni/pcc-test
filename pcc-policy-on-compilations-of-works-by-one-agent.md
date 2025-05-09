@@ -56,8 +56,10 @@ The PCC Standing Committee on Standards (SCS) has created a separate [FAQ on Aut
 ### Classification and Collocation  
 
 Resources in scope for the new policy that are classed in Class P (Language and Literature) will be classed as separate works. This also includes translations, which will be classed following the Translation Table (Classification and Shelflisting Manual (CSM), instruction sheet G150, Translations/ Texts in Parallel Languages), rather than applying a form Cutter (see the translation example below). Optionally, collocation can be achieve through the use of an LGCFT term in the 655 field, or an LCGFT term in the 380 field:  
-> 655 #7 $a Poetry. $2lcgft  
+> 655 #7 $a Poetry. $2lcgft
+
 *or*  
+
 > 380 ## $a Poetry $2 lcgft  
 
 
