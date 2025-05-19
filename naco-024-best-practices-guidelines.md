@@ -26,7 +26,8 @@ The recommendations are not prescriptive and should be considered as best practi
 - When there is an “equivalence” conflict, exercise cataloger's judgment in deciding which NACO record(s) should include an 024 field to the vocabulary  
   - For example, a vocabulary does not treat a new name for a corporate body as a new entity; the vocabulary considers linear name changes as variant terms, not as separately-established terms. NACO creates a new authority record when a corporate entity changes its name.  
 - MARC allows a source to be specified in subfield $2 of the 024 field (first indicator = 7), and an unspecified type of standard or code to be recorded with no subfield $2 (first indicator = 8). The examples below show both options. Cataloger’s judgment determines the choice; there is a preference for the source to be specified in subfield $2 (first indicator = 7) for ease of identification.  
-- Keep in mind what happens when duplicate records are merged in other systems. When that happens, NACO 024 URIs may not resolve any longer. For this reason, when evaluating a source for use in a NACO 024 field, take into account how duplicates are resolved in the source itself.  
+- Keep in mind what happens when duplicate records are merged in other systems. When that happens, NACO 024 URIs may not resolve any longer. For this reason, when evaluating a source for use in a NACO 024 field, take into account how duplicates are resolved in the source itself.
+- **Here I am adding something - I am part of a group who are working on more Best Practice Recommendations for this document, and here is one of them.**
 
 The PCC URIs in MARC Pilot recommends that catalogers use the following sources, considering them a "Core" group of PCC-sanctioned vocabularies. The "Core" group will be evaluated over time and new vocabularies may be added, based on PCC needs and use.  
 
