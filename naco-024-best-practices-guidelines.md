@@ -32,9 +32,6 @@ The PCC URIs in MARC Pilot recommends that catalogers use the following sources,
 
 ### Personal Names  
 |  SOURCE  | 024 |                        BEST PRACTICE EXAMPLES                                  |  
-| Wikidata | $1  | 024 7# $a Q550288 $2 wikidata $1 http://www.wikidata.org/entity/Q550288        |  
-|          |     | **OR**                                                                         |    
-|          |     |  024 8# $1 http://www.wikidata.org/entity/Q55028                               |  
-|   ISNI   | $1  | 024 7# $a 0000000109223014 $2 isni $1 https://isni.org/isni/0000000109223014   |  
-|          |     | **OR**                                                                         |  
-|          | $1  | 024 8# $1 https://isni.org/isni/0000000109223014                               |  
+| ---- | --- | --- |
+| Wikidata | $1  | 024 7# $a Q550288 $2 wikidata $1 http://www.wikidata.org/entity/Q550288<br>**OR**<br/>024 8# $1 http://www.wikidata.org/entity/Q55028 |  
+|   ISNI   | $1  | 024 7# $a 0000000109223014 $2 isni $1 https://isni.org/isni/0000000109223014<br>**OR**</br>024 8# $1 https://isni.org/isni/0000000109223014                               |  
