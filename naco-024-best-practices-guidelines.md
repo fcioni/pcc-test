@@ -36,3 +36,8 @@ The PCC URIs in MARC Pilot recommends that catalogers use the following sources,
 | ---- | --- | --- |
 | Wikidata | $1  | 024 7# $a Q550288 $2 wikidata $1 http://www.wikidata.org/entity/Q550288<br>**OR**<br/>024 8# $1 http://www.wikidata.org/entity/Q55028 |  
 |   ISNI   | $1  | 024 7# $a 0000000109223014 $2 isni $1 https://isni.org/isni/0000000109223014<br>**OR**</br>024 8# $1 https://isni.org/isni/0000000109223014                               |  
+| ORCID | $1 | 024 7# $a 0000000109223014 $2 isni $1 https://isni.org/isni/0000000109223014<br>**OR**</br> 024 8# $1 https://isni.org/isni/0000000109223014 |  
+| VIAF | $1 | 024 7# $a 265641931 $2 viaf  $1 http://www.viaf.org/viaf/265641931<br>**OR**</br>024 8# $1 http://www.viaf.org/viaf/265641931 |  
+| ULAN | $0 <br> $1 </br>  | 024 7# $a 500308857 $2 gettyulan  $0 http://vocab.getty.edu/ulan/500308857 $1 http://vocab.getty.edu/ulan/500308857-agent<br>**OR**</br>024 8# $0 http://vocab.getty.edu/ulan/500308857  $1 http://vocab.getty.edu/ulan/500308857-agent |  
+| WorldCat Entities | $1 | 024 7# $a E39PBJvmFtyGd4gG337MqKvj4q $2 worldcat $1 https://id.oclc.org/worldcat/entity/E39PBJvmFtyGd4gG337MqKvj4q<br>**OR**</br>027 8# $1 https://id.oclc.org/worldcat/entity/E39PBJvmFtyGd4gG337MqKvj4q |
+
