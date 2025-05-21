@@ -35,4 +35,21 @@ The PCC URIs in MARC Pilot recommends that catalogers use the following sources,
 |  SOURCE  | 024 |                        BEST PRACTICE EXAMPLES                                  |  
 | ---- | --- | --- |
 | Wikidata | $1  | 024 7# $a Q550288 $2 wikidata $1 http://www.wikidata.org/entity/Q550288<br>**OR**<br/>024 8# $1 http://www.wikidata.org/entity/Q55028 |  
-|   ISNI   | $1  | 024 7# $a 0000000109223014 $2 isni $1 https://isni.org/isni/0000000109223014<br>**OR**</br>024 8# $1 https://isni.org/isni/0000000109223014                               |  
+|   ISNI   | $1  | 024 7# $a 0000000109223014 $2 isni $1 https://isni.org/isni/0000000109223014<br>**OR**</br>024 8# $1 https://isni.org/isni/0000000109223014                               |    
+
+
+## NACO Records and 667 Fields  
+
+When URIs were added to the 024 field in NACO records as part of the PCC URIs in MARC Pilot, a 667 note was added to the record:  
+
+667   URIs added ot this record for the PCC URI MARC Pilot. Please do not remove or edit the URIs.  
+
+As of October 15, 2020, over 6,000 NACO records had this 667 note.  
+
+The PCC URIs in MARC Pilot Authorities Subgroup finished its work in 2020. These best practice guidelines for the 024 field were created by the subgroup, and when the guidelines were posted, they became official policy, and NACO catalogers could start adding URIs to NACO records. Although the guidelines address the 024 field, URIs may also be added to other fields in NACO records, where subfield $0 and/or subfield $1 is 
+authorized for use by the MARC Authority Format.  
+
+When adding URIs to the 024 field or to any other field for which subfield $0 and/or subfield $1 is authorized for use, NACO catalogers <ins>do not</ins> need to add a 667 note:  
+667 ## $a URIs added to 3XX and/or 5XX fields in this record for the PCC URI MARC Pilot. Please do not remove or edit these URIs.  
+
+NACO cataloguers may see this 667 field in records that were nehacned with URIs as par tof the PCC URIs in MARC Pilot Authorities Subgroup's work. When updating a NACO record for another reason, and that record has the 667 note from the subgroup's work, the 667 note may <ins>optionally</ins> be deleted.
