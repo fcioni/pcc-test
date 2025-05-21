@@ -42,7 +42,7 @@ The PCC URIs in MARC Pilot recommends that catalogers use the following sources,
 
 When URIs were added to the 024 field in NACO records as part of the PCC URIs in MARC Pilot, a 667 note was added to the record:  
 
-667   URIs added ot this record for the PCC URI MARC Pilot. Please do not remove or edit the URIs.  
+> 667   URIs added ot this record for the PCC URI MARC Pilot. Please do not remove or edit the URIs.  
 
 As of October 15, 2020, over 6,000 NACO records had this 667 note.  
 
@@ -50,6 +50,6 @@ The PCC URIs in MARC Pilot Authorities Subgroup finished its work in 2020. These
 authorized for use by the MARC Authority Format.  
 
 When adding URIs to the 024 field or to any other field for which subfield $0 and/or subfield $1 is authorized for use, NACO catalogers <ins>do not</ins> need to add a 667 note:  
-667 ## $a URIs added to 3XX and/or 5XX fields in this record for the PCC URI MARC Pilot. Please do not remove or edit these URIs.  
+> 667 ## $a URIs added to 3XX and/or 5XX fields in this record for the PCC URI MARC Pilot. Please do not remove or edit these URIs.  
 
 NACO cataloguers may see this 667 field in records that were nehacned with URIs as par tof the PCC URIs in MARC Pilot Authorities Subgroup's work. When updating a NACO record for another reason, and that record has the 667 note from the subgroup's work, the 667 note may <ins>optionally</ins> be deleted.
