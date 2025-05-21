@@ -13,7 +13,7 @@ I have worked out how to:
 - Create documentation in GitHub including formatted text, lists, tables using Markdown
 - Edit documentation using pull requests  
 - Link to documentation in the ReadMe file  
-- Embed documentation hosted on Github in Confluence Wiki pages using the GitHub Markdown macro
+- Embed documentation hosted on Github in Confluence Wiki pages using the GitHub Markdown macro - it updates automatically from the GitHub.
 
 Things I still want to work out:  
 - [ ] Is the GitHub Markdown macro in Confluence included or is it the add-on that I added which would be expensive for multiple users?
